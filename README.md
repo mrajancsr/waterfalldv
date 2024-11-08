@@ -1,2 +1,2 @@
-# waterfalldv
-a repo dedicated for waterfall modeling for dv01
+# waterfallpy
+repo dedicated to building a structured finance waterfall
